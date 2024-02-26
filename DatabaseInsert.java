@@ -15,8 +15,8 @@ import java.util.Random;
 
 public class DatabaseInsert extends Application {
   private static final String DB_URL = "jdbc:mysql://localhost:3306/mydatabase";
-  private static final String DB_USERNAME = "your_username";
-  private static final String DB_PASSWORD = "your_password";
+  private static final String DB_USERNAME = "username";
+  private static final String DB_PASSWORD = "password";
 
   private TextArea logTextArea;
 
